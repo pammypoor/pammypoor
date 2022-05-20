@@ -10,6 +10,6 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: pammypoor/metrics@latest
+      - uses: pammypoor/Tresearch@Master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
