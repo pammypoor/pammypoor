@@ -7,7 +7,7 @@ You can reach me at pammypoor@gmail.com
 
 ## Github Metrics
 ![Metrics](/github-metrics.svg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pammypoor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br/>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pammypoor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects
 - [Portfolio](https://pammypoor.github.io/)
