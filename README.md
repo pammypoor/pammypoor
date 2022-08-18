@@ -1,6 +1,7 @@
 # Hi there, I'm Pammy Poor
+### Softarwe Developer from California
 ## About Me
-I'm a recent college graduate of Computer Science from California State University, Long Beach with experience in full-stack development. I'm always up for learning new technologies and languages. 
+I'm a graduate of Computer Science from California State University, Long Beach with experience in full-stack development. I'm always up for learning new technologies and languages. 
 
 ## Contact Me
 You can reach me at pammypoor@gmail.com
@@ -12,17 +13,17 @@ You can reach me at pammypoor@gmail.com
 ## Projects
 - [Portfolio](https://pammypoor.github.io/)
 - [Tresearch](https://github.com/pammypoor/Tresearch) - Full stack web application of an interactive mindmapping tool using tree data structures
-- [AppTracker](https://github.com/pammypoor/AppTracker) - Full stack web application to track job applications, status and contacts.
+- [AppTracker](https://github.com/pammypoor/AppTracker) - Full stack web application to visualize and track job applications, status and contacts.
 
 ## My Skills
 ### Languages
 - C#
 - C++
+- HTML/CSS
 - Java
-- Javascript (React)
+- Javascript (Node, React)
 - Python
 - SQL
 ### Web Technologies
 - Microsoft Azure
 - Microsoft Sql Server Management Studio
-- Node.js
