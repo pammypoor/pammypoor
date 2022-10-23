@@ -20,7 +20,7 @@ You can reach me at pammypoor@gmail.com
 - C++
 - HTML/CSS
 - Java
-- Javascript (Node, React)
+- Javascript, Typescript (Angular, React.JS)
 - Python
 - SQL
 ### Web Technologies
