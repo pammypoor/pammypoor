@@ -12,7 +12,7 @@ You can reach me at pammypoor@gmail.com
 ## My Projects
 - [Portfolio](https://pammypoor.github.io/)
 - [Tresearch](https://github.com/pammypoor/Tresearch) - Full stack web application of an interactive mindmapping tool using tree data structures
-- [AppTracker](https://github.com/pammypoor/AppTracker) - Full stack web application to visualize and track job applications, status and contacts.
+- [OnTheHunt](https://github.com/pammypoor/OnTheHunt) - Full stack web application to visualize and track job applications, status and contacts.
 
 ## My Skills
 ### Languages
