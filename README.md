@@ -1,6 +1,6 @@
 # Hi there, I'm Pammy Poor
 ## About Me
-I'm a software developer from Orange County, California currently working at VerityStream. I graduated from California State University, Long beach with a Bachelors Degree in Computer Science. I'm always up for learning new technologies and languages.
+I'm a full-stack software developer from Orange County, California. I graduated from California State University, Long beach with a Bachelors Degree in Computer Science. I'm always up for learning new technologies and languages.
 
 ## Contact Me
 You can reach me at pammypoor@gmail.com
