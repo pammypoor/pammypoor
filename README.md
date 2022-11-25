@@ -14,15 +14,23 @@ You can reach me at pammypoor@gmail.com
 - [Tresearch](https://github.com/pammypoor/Tresearch) - Full stack web application of an interactive mindmapping tool using tree data structures
 - [OnTheHunt](https://github.com/pammypoor/OnTheHunt) - Full stack web application to visualize and track job applications, status and contacts.
 
-## My Skills
-### Languages
-- C#
-- C++
+## My Tech Stack
+### Front End
+- Angular
+- ReactJS
+- Bootstrap
 - HTML/CSS
+- JavaScript
+- Typescript
+
+### Back End
+- C#
 - Java
-- Javascript, Typescript (Angular, React.JS)
-- Python
-- SQL
-### Web Technologies
-- Microsoft Azure
-- Microsoft Sql Server Management Studio
+- Microsoft SQL Server
+- .NET Core
+- AspNet Boilerplate
+- Entity Framework Core
+
+### Tools
+- Git
+- Microsoft Azure (Sql Server, DevOps)
