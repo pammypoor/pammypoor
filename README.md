@@ -28,7 +28,6 @@ You can reach me at pammypoor@gmail.com
 - Java
 - Microsoft SQL Server
 - .NET Core
-- AspNet Boilerplate
 - Entity Framework Core
 
 ### Tools
